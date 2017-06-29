@@ -1,0 +1,2362 @@
+{
+	"folder_history":
+	[
+		"/C/wamp64/www/projects/easyclient/easyclient",
+		"/C/wamp64/www/projects/dashboard",
+		"/C/wamp64/www/projects/easyclient",
+		"/C/wamp64/www/projects/naty"
+	],
+	"last_version": 3126,
+	"last_window_id": 18,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 522.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"se",
+						"self\tPHP: self::"
+					],
+					[
+						"ap",
+						"api_key"
+					],
+					[
+						"da",
+						"dateTime"
+					],
+					[
+						"idc",
+						"idcurso"
+					],
+					[
+						"cur",
+						"cursos"
+					],
+					[
+						"scri",
+						"script"
+					],
+					[
+						"AP",
+						"APP_NAME=Impulsando\t(.env)"
+					],
+					[
+						"dri",
+						"driverTwitter"
+					],
+					[
+						"sel",
+						"self"
+					],
+					[
+						"driv",
+						"driverFacebook"
+					],
+					[
+						"fi",
+						"first"
+					],
+					[
+						"wh",
+						"where"
+					],
+					[
+						"drive",
+						"driverTwitter"
+					],
+					[
+						"Service",
+						"ServiceRequestController\t(ServiceRequestController.php)"
+					],
+					[
+						"Route",
+						"Route::group\tCreate a Group of Routes"
+					],
+					[
+						"LE",
+						"LEVEL_MODERADOR"
+					],
+					[
+						"fa",
+						"facebookUser"
+					],
+					[
+						"em",
+						"empty"
+					],
+					[
+						"or",
+						"orWhere"
+					],
+					[
+						"LEVE",
+						"LEVEL_MODERADOR"
+					],
+					[
+						"con",
+						"const"
+					],
+					[
+						"sat",
+						"stackable\t(show_perfil.blade.php)"
+					],
+					[
+						"fl",
+						"floated\t(menu_head.blade.php)"
+					],
+					[
+						"compon",
+						"components"
+					],
+					[
+						"pad",
+						"padding-top"
+					],
+					[
+						"marg",
+						"margin-top"
+					],
+					[
+						"cp",
+						"components"
+					],
+					[
+						"idUs",
+						"idUsuario"
+					],
+					[
+						"att",
+						"attr\t.attr() - single"
+					],
+					[
+						"Store",
+						"StoreInfoBanco"
+					],
+					[
+						"method",
+						"method_field\tL5 Method Field"
+					],
+					[
+						"cs",
+						"csrf_token\tL5 Csrf Token"
+					],
+					[
+						"dato",
+						"datosBancarios"
+					],
+					[
+						"time",
+						"timestamps\tEloquent timestamps boolean"
+					],
+					[
+						"pro",
+						"protected"
+					],
+					[
+						"id",
+						"idUsuario"
+					],
+					[
+						"dashbo",
+						"dashboard.components.general.button"
+					],
+					[
+						"Routg",
+						"Route::group\tCreate a Group of Routes"
+					],
+					[
+						"metho",
+						"method_field\tL5 Method Field"
+					],
+					[
+						"has",
+						"hasMany\tEloquent hasMany() relation"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"JOINUS",
+						"JOINUSER"
+					],
+					[
+						"req",
+						"request\tL5 Request"
+					],
+					[
+						"ROute",
+						"Route::group\tCreate a Group of Routes"
+					],
+					[
+						"menu",
+						"menu_id"
+					],
+					[
+						"card-",
+						"card-parrafo"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"car",
+						"card-1"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"pagi",
+						"padding-left"
+					],
+					[
+						"align",
+						"text-align"
+					],
+					[
+						"me",
+						"meta\tTag"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 374.0,
+				"last_filter": "consol",
+				"selected_items":
+				[
+					[
+						"consol",
+						"Set Syntax: Console"
+					],
+					[
+						"sidebar",
+						"Side Bar: Enable Syncing"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"inc",
+						"Snippet: blade-include"
+					],
+					[
+						"incl",
+						"Snippet: blade-include"
+					],
+					[
+						"if",
+						"Snippet: blade-if_else"
+					],
+					[
+						"forea",
+						"Snippet: blade-foreach"
+					],
+					[
+						"inclu",
+						"Snippet: blade-include"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"component",
+						"Snippet: Defines a slot of a component"
+					],
+					[
+						"blade r",
+						"Snippet: blade-route"
+					],
+					[
+						"slot",
+						"Snippet: Defines a slot of a component"
+					],
+					[
+						"fore",
+						"Snippet: blade-foreach"
+					],
+					[
+						"ea",
+						"Snippet: blade-each"
+					],
+					[
+						"each",
+						"Snippet: blade-each"
+					],
+					[
+						"foreac",
+						"Snippet: blade-foreach"
+					],
+					[
+						"alig",
+						"Preferences: Alignment Key Bindings – User"
+					],
+					[
+						"align",
+						"Preferences: Alignment Key Bindings – Default"
+					],
+					[
+						"bladeye",
+						"Snippet: blade-section_yield"
+					],
+					[
+						"bladeex",
+						"Snippet: blade-extends"
+					],
+					[
+						"blade",
+						"Snippet: blade-include"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/wamp64/www/projects/dashboard/routes/web.php",
+				"/C/wamp64/www/projects/dashboard/database/migrations/2017_06_13_095419_create_table_facturas.php",
+				"/C/wamp64/www/projects/dashboard/composer.json",
+				"/C/wamp64/www/projects/dashboard/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestAttributeValueResolver.php",
+				"/C/wamp64/www/projects/dashboard/composer.lock",
+				"/C/wamp64/www/projects/dashboard/vendor/symfony/http-foundation/Tests/Session/Storage/MockFileSessionStorageTest.php",
+				"/C/wamp64/www/projects/dashboard/config/filesystems.php",
+				"/C/wamp64/www/projects/dashboard/vendor/ktamas77/firebase-php/src/firebaseLib.php",
+				"/C/Users/Naty/Documents/client_secret_746196412930-8jnu5ht02fhqjqt9nmvdbbsl6m828g5s.apps.googleusercontent.com.json",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/perfil_content/show_perfil.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/cursos_content/partials/item_colums.blade.php",
+				"/C/wamp64/www/projects/dashboard/app/Http/Controllers/Cursos/CursosController.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/perfil/update_datos_oficiales.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/cursos/form_update_factura.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/general/modal.blade.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/Service/ServiceController.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/models/comanda/Comanda.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/models/comanda/AbonoMesa.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/API/ServiceRequestController.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/routes/web.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/cursos_content/show_cursos.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/cursos/item_preguntas_curso.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/dashboard/menu_head.blade.php",
+				"/C/wamp64/www/projects/dashboard/.env",
+				"/C/wamp64/www/projects/dashboard/app/Http/Controllers/Auth/AuthController.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/welcome.blade.php",
+				"/C/wamp64/www/projects/dashboard/config/services.php",
+				"/C/wamp64/www/projects/dashboard/.gitignore",
+				"/C/wamp64/www/projects/dashboard/app/Http/Controllers/Auth/AuthTwiterController.php",
+				"/C/wamp64/www/projects/dashboard/app/User.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/routes/api.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/API/OpenAndCloseTableController.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/vendor/laravel/framework/src/Illuminate/Foundation/Testing/WithoutEvents.php",
+				"/C/wamp64/www/projects/dashboard/database/migrations/2017_06_06_003203_add_remembe_token_to_users_table.php",
+				"/C/wamp64/www/projects/dashboard/.gitattributes",
+				"/C/Users/Naty/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Naty/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/socialite/src/Two/FacebookProvider.php",
+				"/C/wamp64/www/projects/dashboard/database/migrations/2017_06_06_231334_add_column_rfc_to_datos_bancarios.php",
+				"/C/wamp64/www/projects/dashboard/database/migrations/2017_06_08_085606_add_colum_usuarios_dashboard_id_facebook.php",
+				"/C/wamp64/www/projects/dashboard/config/app.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/test/index.blade.php",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/dashboard/menu.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/perfil/perfil_description.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/cursos_content/show_curso_info.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/dashboard_layout.blade.php",
+				"/C/wamp64/www/projects/dashboard/public/css/app_layout.css",
+				"/C/wamp64/www/projects/naty/index.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/perfil/modal_informacion_personal_update.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/perfil/card_perfil.blade.php",
+				"/C/Users/Naty/Downloads/palette (1).css",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/perfil/datos_bancarios.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/dashboard/sidebar.blade.php",
+				"/C/wamp64/www/projects/dashboard/public/css/app.css",
+				"/C/wamp64/www/projects/dashboard/app/Http/Controllers/Usuario/UsuarioController.php",
+				"/C/wamp64/www/projects/dashboard/app/Http/Requests/StoreInfoBanco.php",
+				"/C/wamp64/www/projects/dashboard/app/Models/Usuarios/Usuarios.php",
+				"/C/wamp64/www/projects/dashboard/app/Models/Cursos/Curso.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/general/error_form.blade.php",
+				"/C/wamp64/www/projects/dashboard/app/Models/Usuarios/Banco.php",
+				"/C/wamp64/www/projects/dashboard/app/Models/Usuarios/Perfil.php",
+				"/C/wamp64/www/projects/dashboard/app/Http/Requests/StorePerfil.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/general/alert_mensaje.blade.php",
+				"/C/wamp64/www/projects/dashboard/app/Http/Controllers/Auth/LoginController.php",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/socialite/src/Facades/Socialite.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/general/button.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/cursos/list_skills.blade.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/resources/views/layouts/app_components/header.blade.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/resources/views/layouts/app.blade.php",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ThrottlesLogins.php",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authorize.php",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php",
+				"/C/wamp64/www/projects/dashboard/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/Auth/LoginAuthenticator.php",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/framework/src/Illuminate/Auth/Events/Login.php",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/framework/src/Illuminate/Queue/SerializesModels.php",
+				"/C/wamp64/www/projects/dashboard/config/auth.php",
+				"/C/wamp64/www/projects/dashboard/config/session.php",
+				"/C/Users/Naty/AndroidStudioProjects/ClientEasyClient/app/src/main/java/mandarina/easyclient/Session/UserSessionManager.java",
+				"/C/wamp64/www/projects/dashboard/bootstrap/app.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/cursos_content/partials/item_mensaje.blade.php",
+				"/C/Users/Naty/AppData/Roaming/Sublime Text 3/Packages/User/SyncedSideBar.sublime-settings",
+				"/C/wamp64/www/projects/dashboard/app/Models/Cursos/Respuesta.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/cursos/item_info_curso.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/cursos_content/partials/item_colums_empty.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/cursos_content/partials/item_mensaje_empty.blade.php",
+				"/C/wamp64/www/projects/dashboard/app/Models/Cursos/Pago.php",
+				"/C/wamp64/www/projects/dashboard/app/Models/Cursos/Pregunta.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/perfil_content/show_cursos.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/perfil/modal_informacion_personal_udpate.blade.php",
+				"/C/Users/Naty/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Naty/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/C/Users/Naty/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+				"/C/Users/Naty/AppData/Roaming/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/perfil/showPerfil.blade.php",
+				"/C/wamp64/www/projects/dashboard/app/Usuarios/Usuarios.php",
+				"/C/wamp64/www/projects/dashboard/app/Cursos/Curso.php",
+				"/C/wamp64/www/projects/dashboard/app/Http/Controllers/Controller.php",
+				"/C/wamp64/www/projects/dashboard/config/database.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/Caja/CajaController.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/API/MesasRestApiController.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/models/table/Area.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Events/NotificationGlobal.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/models/classes/ModelNotification.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/PusherController.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Providers/BroadcastServiceProvider.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/config/broadcasting.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/config/app.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/config/auth.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/.env",
+				"/C/wamp64/www/projects/easyclient/easyclient/composer.json",
+				"/C/wamp64/www/projects/easyclient/easyclient/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/PusherBroadcaster.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/public/js/app-notifications.js",
+				"/C/wamp64/www/projects/easyclient/easyclient/vendor/laravel/framework/src/Illuminate/Broadcasting/BroadcastManager.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/vendor/laravel/framework/src/Illuminate/Broadcasting/PrivateChannel.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/.env.example",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/API/ComandaApiRestController.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Providers/EventServiceProvider.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Providers/RouteServiceProvider.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Providers/AppServiceProvider.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Providers/AuthServiceProvider.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/Cliente/MeseroController.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Events/Notification.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Listeners/NotificationSave.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/models/menu/Menu.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/vendor/laravel/framework/src/Illuminate/Broadcasting/InteractsWithSockets.php"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"<project>",
+					"C:\\wamp64\\www\\projects\\easyclient\\easyclient"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"idcurso",
+					"drive",
+					"text",
+					"div",
+					" ",
+					"driverUser",
+					"facebookUser",
+					"user",
+					"version",
+					"VERSION",
+					"version",
+					"client_secret",
+					" ",
+					"imdivge",
+					"a",
+					"Friends",
+					"strong",
+					"only",
+					" ",
+					"old('",
+					"modalInforPersonal",
+					"alpha_dash",
+					"string",
+					"method",
+					"info -> ",
+					"$",
+					"slot",
+					"static login ",
+					"Academy",
+					"FunctionName",
+					"IDPERFIL",
+					"IDPERFIl",
+					"idPerfil",
+					"IDPERFIl",
+					"idCurso",
+					"IDCURSO",
+					"IDASESOR",
+					"Pusher",
+					"folio->",
+					"menu",
+					"FFFFFF",
+					"container",
+					"secret",
+					"homestead"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.xdebug":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"form_update_factura",
+						"resources\\views\\dashboard\\components\\cursos\\form_update_factura.blade.php"
+					],
+					[
+						"createtable",
+						"database\\migrations\\2017_06_13_095419_create_table_facturas.php"
+					],
+					[
+						"kreait",
+						"vendor\\symfony\\http-kernel\\Controller\\ArgumentResolver\\RequestAttributeValueResolver.php"
+					],
+					[
+						"compo",
+						"composer.json"
+					],
+					[
+						"storageclient",
+						"vendor\\symfony\\http-foundation\\Tests\\Session\\Storage\\MockFileSessionStorageTest.php"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						"composer.",
+						"composer.json"
+					],
+					[
+						"cursocon",
+						"app\\Http\\Controllers\\Cursos\\CursosController.php"
+					],
+					[
+						"web",
+						"routes\\web.php"
+					],
+					[
+						"modal",
+						"resources\\views\\dashboard\\components\\general\\modal.blade.php"
+					],
+					[
+						"cursos",
+						"app\\Http\\Controllers\\Cursos\\CursosController.php"
+					],
+					[
+						"update_datos_oficiales",
+						"resources\\views\\dashboard\\components\\perfil\\update_datos_oficiales.blade.php"
+					],
+					[
+						"item_colums",
+						"resources\\views\\dashboard\\cursos_content\\partials\\item_colums.blade.php"
+					],
+					[
+						"we",
+						"routes\\web.php"
+					],
+					[
+						"abono",
+						"app\\models\\comanda\\AbonoMesa.php"
+					],
+					[
+						"menuhe",
+						"resources\\views\\dashboard\\components\\dashboard\\menu_head.blade.php"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"use",
+						"app\\User.php"
+					],
+					[
+						"api",
+						"easyclient\\routes\\api.php"
+					],
+					[
+						"authco",
+						"app\\Http\\Controllers\\Auth\\AuthController.php"
+					],
+					[
+						"app.",
+						"config\\app.php"
+					],
+					[
+						"ap",
+						"bootstrap\\app.php"
+					],
+					[
+						"face",
+						"vendor\\laravel\\socialite\\src\\Two\\FacebookProvider.php"
+					],
+					[
+						"au",
+						"app\\Http\\Controllers\\Auth\\AuthController.php"
+					],
+					[
+						"menuhea",
+						"resources\\views\\dashboard\\components\\dashboard\\menu_head.blade.php"
+					],
+					[
+						"show",
+						"resources\\views\\dashboard\\cursos_content\\show_curso_info.blade.php"
+					],
+					[
+						"sho",
+						"resources\\views\\dashboard\\cursos_content\\show_cursos.blade.php"
+					],
+					[
+						"menu",
+						"resources\\views\\dashboard\\components\\dashboard\\menu.blade.php"
+					],
+					[
+						"perfi",
+						"resources\\views\\dashboard\\components\\perfil\\perfil_description.blade.php"
+					],
+					[
+						"lay",
+						"resources\\views\\dashboard\\dashboard_layout.blade.php"
+					],
+					[
+						"layou",
+						"resources\\views\\dashboard\\dashboard_layout.blade.php"
+					],
+					[
+						"lat",
+						"public\\css\\app_layout.css"
+					],
+					[
+						"cursocontro",
+						"app\\Http\\Controllers\\Cursos\\CursosController.php"
+					],
+					[
+						"layout",
+						"public\\css\\app_layout.css"
+					],
+					[
+						"cursorco",
+						"app\\Http\\Controllers\\Cursos\\CursosController.php"
+					],
+					[
+						"layo",
+						"resources\\views\\dashboard\\dashboard_layout.blade.php"
+					],
+					[
+						"",
+						"resources\\views\\dashboard\\components\\dashboard\\menu_head.blade.php"
+					],
+					[
+						"cursoco",
+						"app\\Http\\Controllers\\Cursos\\CursosController.php"
+					],
+					[
+						"cur",
+						"app\\Models\\Cursos\\Curso.php"
+					],
+					[
+						"menuhead",
+						"resources\\views\\dashboard\\components\\dashboard\\menu_head.blade.php"
+					],
+					[
+						"usua",
+						"app\\Models\\Usuarios\\Usuarios.php"
+					],
+					[
+						"banco",
+						"app\\Models\\Usuarios\\Banco.php"
+					],
+					[
+						"2017_06_06_231334_add_column_rfc_to_datos_bancarios",
+						"database\\migrations\\2017_06_06_231334_add_column_rfc_to_datos_bancarios.php"
+					],
+					[
+						"perfil_description",
+						"resources\\views\\dashboard\\components\\perfil\\perfil_description.blade.php"
+					],
+					[
+						"per",
+						"app\\Models\\Usuarios\\Perfil.php"
+					],
+					[
+						"usuar",
+						"app\\Models\\Usuarios\\Usuarios.php"
+					],
+					[
+						"modalino",
+						"resources\\views\\dashboard\\components\\perfil\\modal_informacion_personal_update.blade.php"
+					],
+					[
+						"usuario",
+						"app\\Http\\Controllers\\Usuario\\UsuarioController.php"
+					],
+					[
+						"formupdate",
+						"resources\\views\\dashboard\\components\\perfil\\modal_informacion_personal_update.blade.php"
+					],
+					[
+						"store",
+						"app\\Http\\Requests\\StorePerfil.php"
+					],
+					[
+						"usuarioc",
+						"app\\Http\\Controllers\\Usuario\\UsuarioController.php"
+					],
+					[
+						"showp",
+						"resources\\views\\dashboard\\perfil_content\\show_perfil.blade.php"
+					],
+					[
+						"showperi",
+						"resources\\views\\dashboard\\perfil_content\\show_perfil.blade.php"
+					],
+					[
+						"auth",
+						"app\\Http\\Controllers\\Auth\\AuthController.php"
+					],
+					[
+						"welco",
+						"resources\\views\\welcome.blade.php"
+					],
+					[
+						"authcon",
+						"app\\Http\\Controllers\\Auth\\AuthController.php"
+					],
+					[
+						"modal_informacion_personal_update",
+						"resources\\views\\dashboard\\components\\perfil\\modal_informacion_personal_update.blade.php"
+					],
+					[
+						"card_per",
+						"resources\\views\\dashboard\\components\\perfil\\card_perfil.blade.php"
+					],
+					[
+						"user",
+						"app\\User.php"
+					],
+					[
+						"login",
+						"vendor\\swiftmailer\\swiftmailer\\lib\\classes\\Swift\\Transport\\Esmtp\\Auth\\LoginAuthenticator.php"
+					],
+					[
+						".evn",
+						".env"
+					],
+					[
+						"app",
+						"bootstrap\\app.php"
+					],
+					[
+						"menu.bla",
+						"resources\\views\\dashboard\\components\\dashboard\\menu.blade.php"
+					],
+					[
+						"curso",
+						"app\\Models\\Cursos\\Curso.php"
+					],
+					[
+						"item_in",
+						"resources\\views\\dashboard\\components\\cursos\\item_info_curso.blade.php"
+					],
+					[
+						"cursoscon",
+						"app\\Http\\Controllers\\Cursos\\CursosController.php"
+					],
+					[
+						"pregunta",
+						"app\\Models\\Cursos\\Pregunta.php"
+					],
+					[
+						"pregun",
+						"app\\Models\\Cursos\\Pregunta.php"
+					],
+					[
+						"respuesta",
+						"app\\Models\\Cursos\\Respuesta.php"
+					],
+					[
+						"preg",
+						"app\\Models\\Cursos\\Pregunta.php"
+					],
+					[
+						"cursorcon",
+						"app\\Http\\Controllers\\Cursos\\CursosController.php"
+					],
+					[
+						"pusher",
+						"app\\Http\\Controllers\\PusherController.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 226.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 766.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"wi",
+						"with\t(ServiceRequestController.php)"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"idcur",
+						"idcurso"
+					],
+					[
+						"redirect",
+						"redirect()\tmixed"
+					],
+					[
+						"requ",
+						"required|string"
+					],
+					[
+						"suc",
+						"successXML"
+					],
+					[
+						"fade",
+						"fadeIn\t.fadeIn()"
+					],
+					[
+						"erro",
+						"errorGeneral"
+					],
+					[
+						"st",
+						"style\tAttr"
+					],
+					[
+						"dia",
+						"display"
+					],
+					[
+						"show",
+						"show\t.show()"
+					],
+					[
+						"succ",
+						"successXML"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"message",
+						"message.css"
+					],
+					[
+						"se",
+						"self\tPHP: self::"
+					],
+					[
+						"ap",
+						"api_key"
+					],
+					[
+						"da",
+						"dateTime"
+					],
+					[
+						"idc",
+						"idcurso"
+					],
+					[
+						"cur",
+						"cursos"
+					],
+					[
+						"scri",
+						"script"
+					],
+					[
+						"AP",
+						"APP_NAME=Impulsando\t(.env)"
+					],
+					[
+						"dri",
+						"driverTwitter"
+					],
+					[
+						"sel",
+						"self"
+					],
+					[
+						"driv",
+						"driverFacebook"
+					],
+					[
+						"fi",
+						"first"
+					],
+					[
+						"wh",
+						"where"
+					],
+					[
+						"drive",
+						"driverTwitter"
+					],
+					[
+						"Service",
+						"ServiceRequestController\t(ServiceRequestController.php)"
+					],
+					[
+						"Route",
+						"Route::group\tCreate a Group of Routes"
+					],
+					[
+						"LE",
+						"LEVEL_MODERADOR"
+					],
+					[
+						"fa",
+						"facebookUser"
+					],
+					[
+						"em",
+						"empty"
+					],
+					[
+						"or",
+						"orWhere"
+					],
+					[
+						"LEVE",
+						"LEVEL_MODERADOR"
+					],
+					[
+						"con",
+						"const"
+					],
+					[
+						"sat",
+						"stackable\t(show_perfil.blade.php)"
+					],
+					[
+						"fl",
+						"floated\t(menu_head.blade.php)"
+					],
+					[
+						"compon",
+						"components"
+					],
+					[
+						"pad",
+						"padding-top"
+					],
+					[
+						"marg",
+						"margin-top"
+					],
+					[
+						"cp",
+						"components"
+					],
+					[
+						"idUs",
+						"idUsuario"
+					],
+					[
+						"att",
+						"attr\t.attr() - single"
+					],
+					[
+						"Store",
+						"StoreInfoBanco"
+					],
+					[
+						"method",
+						"method_field\tL5 Method Field"
+					],
+					[
+						"cs",
+						"csrf_token\tL5 Csrf Token"
+					],
+					[
+						"dato",
+						"datosBancarios"
+					],
+					[
+						"time",
+						"timestamps\tEloquent timestamps boolean"
+					],
+					[
+						"pro",
+						"protected"
+					],
+					[
+						"id",
+						"idUsuario"
+					],
+					[
+						"dashbo",
+						"dashboard.components.general.button"
+					],
+					[
+						"Routg",
+						"Route::group\tCreate a Group of Routes"
+					],
+					[
+						"metho",
+						"method_field\tL5 Method Field"
+					],
+					[
+						"has",
+						"hasMany\tEloquent hasMany() relation"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"JOINUS",
+						"JOINUSER"
+					],
+					[
+						"ROute",
+						"Route::group\tCreate a Group of Routes"
+					],
+					[
+						"menu",
+						"menu_id"
+					],
+					[
+						"card-",
+						"card-parrafo"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"car",
+						"card-1"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"pagi",
+						"padding-left"
+					],
+					[
+						"align",
+						"text-align"
+					],
+					[
+						"me",
+						"meta\tTag"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/wamp64/www/projects/easyclient/easyclient/app/Events/Notification.php",
+					"settings":
+					{
+						"buffer_size": 1511,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/Service/ServiceController.php",
+					"settings":
+					{
+						"buffer_size": 4320,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/HomeController.php",
+					"settings":
+					{
+						"buffer_size": 1900,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 374.0,
+				"last_filter": "remove ",
+				"selected_items":
+				[
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"if",
+						"Snippet: blade-if_else"
+					],
+					[
+						"consol",
+						"Set Syntax: Console"
+					],
+					[
+						"sidebar",
+						"Side Bar: Enable Syncing"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"inc",
+						"Snippet: blade-include"
+					],
+					[
+						"incl",
+						"Snippet: blade-include"
+					],
+					[
+						"forea",
+						"Snippet: blade-foreach"
+					],
+					[
+						"inclu",
+						"Snippet: blade-include"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"component",
+						"Snippet: Defines a slot of a component"
+					],
+					[
+						"blade r",
+						"Snippet: blade-route"
+					],
+					[
+						"slot",
+						"Snippet: Defines a slot of a component"
+					],
+					[
+						"fore",
+						"Snippet: blade-foreach"
+					],
+					[
+						"ea",
+						"Snippet: blade-each"
+					],
+					[
+						"each",
+						"Snippet: blade-each"
+					],
+					[
+						"foreac",
+						"Snippet: blade-foreach"
+					],
+					[
+						"alig",
+						"Preferences: Alignment Key Bindings – User"
+					],
+					[
+						"align",
+						"Preferences: Alignment Key Bindings – Default"
+					],
+					[
+						"bladeye",
+						"Snippet: blade-section_yield"
+					],
+					[
+						"bladeex",
+						"Snippet: blade-extends"
+					],
+					[
+						"blade",
+						"Snippet: blade-include"
+					]
+				],
+				"width": 856.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/wamp64/www/projects/easyclient/easyclient",
+				"/C/wamp64/www/projects/easyclient/easyclient/app",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers",
+				"/C/wamp64/www/projects/easyclient/easyclient/resources",
+				"/C/wamp64/www/projects/easyclient/easyclient/resources/views",
+				"/C/wamp64/www/projects/easyclient/easyclient/resources/views/backend",
+				"/C/wamp64/www/projects/easyclient/easyclient/resources/views/backend/service",
+				"/C/wamp64/www/projects/easyclient/easyclient/resources/views/backend/service/partials",
+				"/C/wamp64/www/projects/easyclient/easyclient/resources/views/layouts",
+				"/C/wamp64/www/projects/easyclient/easyclient/resources/views/resource",
+				"/C/wamp64/www/projects/easyclient/easyclient/routes",
+				"/C/wamp64/www/projects/easyclient/easyclient/storage/logs"
+			],
+			"file_history":
+			[
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/API/ServiceRequestController.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/API/MenuApiRestController.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/API/ComandaApiRestController.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/HomeController.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/Controller.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/Auth/RegisterController.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/routes/web.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/Admin/PerfilController.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Notification.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/config/broadcasting.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/composer.json",
+				"/C/wamp64/www/projects/easyclient/easyclient/.env",
+				"/C/wamp64/www/projects/easyclient/easyclient/resources/views/backend/service/principal.blade.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/config/app.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/resources/views/layouts/app.blade.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/PusherController.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Events/NotificationGlobal.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Events/Notification.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Providers/AppServiceProvider.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/storage/logs/laravel.log",
+				"/C/wamp64/www/projects/easyclient/easyclient/config/cache.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/config/services.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/Service/ServiceController.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/resources/views/backend/service/partials/card_item.blade.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/resources/views/resource/service_event.blade.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/models/comanda/AbonoMesa.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/models/comanda/Comanda.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Middleware/VerifyRoles.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/routes/api.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/API/OpenAndCloseTableController.php",
+				"/C/wamp64/www/projects/dashboard/app/Models/Cursos/Factura.php",
+				"/C/wamp64/www/projects/dashboard/app/Models/Cursos/Curso.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/cursos_content/show_cursos.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/cursos_content/partials/item_colums.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/cursos/form_update_factura.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/general/modal.blade.php",
+				"/C/wamp64/www/projects/dashboard/app/Http/Controllers/Cursos/CursosController.php",
+				"/C/wamp64/www/projects/dashboard/routes/web.php",
+				"/C/wamp64/www/projects/dashboard/routes/api.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/perfil_content/show_perfil.blade.php",
+				"/C/wamp64/www/projects/dashboard/vendor/google/apiclient/src/Google/Client.php",
+				"/C/wamp64/www/projects/dashboard/vendor/google/apiclient-services/src/Google/Service/Drive.php",
+				"/C/wamp64/www/projects/dashboard/public/framework-semantic/dist/components/message.css",
+				"/C/wamp64/www/projects/dashboard/database/migrations/2017_06_13_095419_create_table_facturas.php",
+				"/C/wamp64/www/projects/dashboard/composer.json",
+				"/C/wamp64/www/projects/dashboard/vendor/symfony/http-kernel/Controller/ArgumentResolver/RequestAttributeValueResolver.php",
+				"/C/wamp64/www/projects/dashboard/composer.lock",
+				"/C/wamp64/www/projects/dashboard/vendor/symfony/http-foundation/Tests/Session/Storage/MockFileSessionStorageTest.php",
+				"/C/wamp64/www/projects/dashboard/config/filesystems.php",
+				"/C/wamp64/www/projects/dashboard/vendor/ktamas77/firebase-php/src/firebaseLib.php",
+				"/C/Users/Naty/Documents/client_secret_746196412930-8jnu5ht02fhqjqt9nmvdbbsl6m828g5s.apps.googleusercontent.com.json",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/perfil/update_datos_oficiales.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/cursos/item_preguntas_curso.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/dashboard/menu_head.blade.php",
+				"/C/wamp64/www/projects/dashboard/.env",
+				"/C/wamp64/www/projects/dashboard/app/Http/Controllers/Auth/AuthController.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/welcome.blade.php",
+				"/C/wamp64/www/projects/dashboard/config/services.php",
+				"/C/wamp64/www/projects/dashboard/.gitignore",
+				"/C/wamp64/www/projects/dashboard/app/Http/Controllers/Auth/AuthTwiterController.php",
+				"/C/wamp64/www/projects/dashboard/app/User.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/vendor/laravel/framework/src/Illuminate/Foundation/Testing/WithoutEvents.php",
+				"/C/wamp64/www/projects/dashboard/database/migrations/2017_06_06_003203_add_remembe_token_to_users_table.php",
+				"/C/wamp64/www/projects/dashboard/.gitattributes",
+				"/C/Users/Naty/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Naty/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/socialite/src/Two/FacebookProvider.php",
+				"/C/wamp64/www/projects/dashboard/database/migrations/2017_06_06_231334_add_column_rfc_to_datos_bancarios.php",
+				"/C/wamp64/www/projects/dashboard/database/migrations/2017_06_08_085606_add_colum_usuarios_dashboard_id_facebook.php",
+				"/C/wamp64/www/projects/dashboard/config/app.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/test/index.blade.php",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/dashboard/menu.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/perfil/perfil_description.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/cursos_content/show_curso_info.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/dashboard_layout.blade.php",
+				"/C/wamp64/www/projects/dashboard/public/css/app_layout.css",
+				"/C/wamp64/www/projects/naty/index.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/perfil/modal_informacion_personal_update.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/perfil/card_perfil.blade.php",
+				"/C/Users/Naty/Downloads/palette (1).css",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/perfil/datos_bancarios.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/dashboard/sidebar.blade.php",
+				"/C/wamp64/www/projects/dashboard/public/css/app.css",
+				"/C/wamp64/www/projects/dashboard/app/Http/Controllers/Usuario/UsuarioController.php",
+				"/C/wamp64/www/projects/dashboard/app/Http/Requests/StoreInfoBanco.php",
+				"/C/wamp64/www/projects/dashboard/app/Models/Usuarios/Usuarios.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/general/error_form.blade.php",
+				"/C/wamp64/www/projects/dashboard/app/Models/Usuarios/Banco.php",
+				"/C/wamp64/www/projects/dashboard/app/Models/Usuarios/Perfil.php",
+				"/C/wamp64/www/projects/dashboard/app/Http/Requests/StorePerfil.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/general/alert_mensaje.blade.php",
+				"/C/wamp64/www/projects/dashboard/app/Http/Controllers/Auth/LoginController.php",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/socialite/src/Facades/Socialite.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/general/button.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/cursos/list_skills.blade.php",
+				"/C/wamp64/www/projects/easyclient/easyclient/resources/views/layouts/app_components/header.blade.php",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ThrottlesLogins.php",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authorize.php",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php",
+				"/C/wamp64/www/projects/dashboard/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/Auth/LoginAuthenticator.php",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/framework/src/Illuminate/Auth/Events/Login.php",
+				"/C/wamp64/www/projects/dashboard/vendor/laravel/framework/src/Illuminate/Queue/SerializesModels.php",
+				"/C/wamp64/www/projects/dashboard/config/auth.php",
+				"/C/wamp64/www/projects/dashboard/config/session.php",
+				"/C/Users/Naty/AndroidStudioProjects/ClientEasyClient/app/src/main/java/mandarina/easyclient/Session/UserSessionManager.java",
+				"/C/wamp64/www/projects/dashboard/bootstrap/app.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/cursos_content/partials/item_mensaje.blade.php",
+				"/C/Users/Naty/AppData/Roaming/Sublime Text 3/Packages/User/SyncedSideBar.sublime-settings",
+				"/C/wamp64/www/projects/dashboard/app/Models/Cursos/Respuesta.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/cursos/item_info_curso.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/cursos_content/partials/item_colums_empty.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/cursos_content/partials/item_mensaje_empty.blade.php",
+				"/C/wamp64/www/projects/dashboard/app/Models/Cursos/Pago.php",
+				"/C/wamp64/www/projects/dashboard/app/Models/Cursos/Pregunta.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/perfil_content/show_cursos.blade.php",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/perfil/modal_informacion_personal_udpate.blade.php",
+				"/C/Users/Naty/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Naty/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/C/Users/Naty/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+				"/C/Users/Naty/AppData/Roaming/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+				"/C/wamp64/www/projects/dashboard/resources/views/dashboard/components/perfil/showPerfil.blade.php",
+				"/C/wamp64/www/projects/dashboard/app/Usuarios/Usuarios.php",
+				"/C/wamp64/www/projects/dashboard/app/Cursos/Curso.php",
+				"/C/wamp64/www/projects/dashboard/app/Http/Controllers/Controller.php",
+				"/C/wamp64/www/projects/dashboard/config/database.php"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"<project>",
+					"C:\\wamp64\\www\\projects\\easyclient\\easyclient"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"oneNotification",
+					");\n",
+					"No existe la comanda",
+					"\"message\":\"No existe la comanda\"",
+					"small",
+					"PDF",
+					"fileInput",
+					"false",
+					"fadeIn",
+					"true",
+					"error",
+					"idcurso",
+					"drive",
+					"text",
+					"div",
+					" ",
+					"driverUser",
+					"facebookUser",
+					"user",
+					"version",
+					"VERSION",
+					"version",
+					"client_secret",
+					" ",
+					"imdivge",
+					"a",
+					"Friends",
+					"strong",
+					"only",
+					" ",
+					"old('",
+					"modalInforPersonal",
+					"alpha_dash",
+					"string",
+					"method",
+					"info -> ",
+					"$",
+					"slot",
+					"static login ",
+					"Academy",
+					"FunctionName",
+					"IDPERFIL",
+					"IDPERFIl",
+					"idPerfil",
+					"IDPERFIl",
+					"idCurso",
+					"IDCURSO",
+					"IDASESOR",
+					"Pusher",
+					"folio->",
+					"menu",
+					"FFFFFF",
+					"container",
+					"secret",
+					"homestead"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\wamp64\\www\\projects\\easyclient\\easyclient"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/wamp64/www/projects/easyclient/easyclient/app/Events/Notification.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1511,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										307,
+										307
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 568.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/Service/ServiceController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4320,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/wamp64/www/projects/easyclient/easyclient/app/Http/Controllers/HomeController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1900,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										493,
+										493
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1898,
+												1899
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												185,
+												186
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 83.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.xdebug":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,607,0,26,782",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"perfil",
+						"app\\Http\\Controllers\\Admin\\PerfilController.php"
+					],
+					[
+						"web",
+						"routes\\web.php"
+					],
+					[
+						"home",
+						"app\\Http\\Controllers\\HomeController.php"
+					],
+					[
+						"boracast",
+						"config\\broadcasting.php"
+					],
+					[
+						"pusher",
+						"app\\Http\\Controllers\\PusherController.php"
+					],
+					[
+						"braod",
+						"config\\broadcasting.php"
+					],
+					[
+						"api",
+						"routes\\api.php"
+					],
+					[
+						"comanda",
+						"app\\models\\comanda\\Comanda.php"
+					],
+					[
+						"openan",
+						"app\\Http\\Controllers\\API\\OpenAndCloseTableController.php"
+					],
+					[
+						"abono",
+						"app\\models\\comanda\\AbonoMesa.php"
+					],
+					[
+						"servicerequestcontroller",
+						"app\\Http\\Controllers\\API\\ServiceRequestController.php"
+					],
+					[
+						"servicecotr",
+						"app\\Http\\Controllers\\Service\\ServiceController.php"
+					],
+					[
+						"cursoc",
+						"app\\Http\\Controllers\\Cursos\\CursosController.php"
+					],
+					[
+						"item_colums",
+						"resources\\views\\dashboard\\cursos_content\\partials\\item_colums.blade.php"
+					],
+					[
+						"curso",
+						"app\\Models\\Cursos\\Curso.php"
+					],
+					[
+						"form_update_factura",
+						"resources\\views\\dashboard\\components\\cursos\\form_update_factura.blade.php"
+					],
+					[
+						"modal",
+						"resources\\views\\dashboard\\components\\general\\modal.blade.php"
+					],
+					[
+						"factura",
+						"app\\Models\\Cursos\\Factura.php"
+					],
+					[
+						"cursocon",
+						"app\\Http\\Controllers\\Cursos\\CursosController.php"
+					],
+					[
+						"updatefacr",
+						"resources\\views\\dashboard\\components\\cursos\\form_update_factura.blade.php"
+					],
+					[
+						"show",
+						"resources\\views\\dashboard\\perfil_content\\show_perfil.blade.php"
+					],
+					[
+						"formupdate",
+						"resources\\views\\dashboard\\components\\cursos\\form_update_factura.blade.php"
+					],
+					[
+						"createtable",
+						"database\\migrations\\2017_06_13_095419_create_table_facturas.php"
+					],
+					[
+						"kreait",
+						"vendor\\symfony\\http-kernel\\Controller\\ArgumentResolver\\RequestAttributeValueResolver.php"
+					],
+					[
+						"compo",
+						"composer.json"
+					],
+					[
+						"storageclient",
+						"vendor\\symfony\\http-foundation\\Tests\\Session\\Storage\\MockFileSessionStorageTest.php"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						"composer.",
+						"composer.json"
+					],
+					[
+						"cursos",
+						"app\\Http\\Controllers\\Cursos\\CursosController.php"
+					],
+					[
+						"update_datos_oficiales",
+						"resources\\views\\dashboard\\components\\perfil\\update_datos_oficiales.blade.php"
+					],
+					[
+						"we",
+						"routes\\web.php"
+					],
+					[
+						"menuhe",
+						"resources\\views\\dashboard\\components\\dashboard\\menu_head.blade.php"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"use",
+						"app\\User.php"
+					],
+					[
+						"authco",
+						"app\\Http\\Controllers\\Auth\\AuthController.php"
+					],
+					[
+						"app.",
+						"config\\app.php"
+					],
+					[
+						"ap",
+						"bootstrap\\app.php"
+					],
+					[
+						"face",
+						"vendor\\laravel\\socialite\\src\\Two\\FacebookProvider.php"
+					],
+					[
+						"au",
+						"app\\Http\\Controllers\\Auth\\AuthController.php"
+					],
+					[
+						"menuhea",
+						"resources\\views\\dashboard\\components\\dashboard\\menu_head.blade.php"
+					],
+					[
+						"sho",
+						"resources\\views\\dashboard\\cursos_content\\show_cursos.blade.php"
+					],
+					[
+						"menu",
+						"resources\\views\\dashboard\\components\\dashboard\\menu.blade.php"
+					],
+					[
+						"perfi",
+						"resources\\views\\dashboard\\components\\perfil\\perfil_description.blade.php"
+					],
+					[
+						"lay",
+						"resources\\views\\dashboard\\dashboard_layout.blade.php"
+					],
+					[
+						"layou",
+						"resources\\views\\dashboard\\dashboard_layout.blade.php"
+					],
+					[
+						"lat",
+						"public\\css\\app_layout.css"
+					],
+					[
+						"cursocontro",
+						"app\\Http\\Controllers\\Cursos\\CursosController.php"
+					],
+					[
+						"layout",
+						"public\\css\\app_layout.css"
+					],
+					[
+						"cursorco",
+						"app\\Http\\Controllers\\Cursos\\CursosController.php"
+					],
+					[
+						"layo",
+						"resources\\views\\dashboard\\dashboard_layout.blade.php"
+					],
+					[
+						"",
+						"resources\\views\\dashboard\\components\\dashboard\\menu_head.blade.php"
+					],
+					[
+						"cursoco",
+						"app\\Http\\Controllers\\Cursos\\CursosController.php"
+					],
+					[
+						"cur",
+						"app\\Models\\Cursos\\Curso.php"
+					],
+					[
+						"menuhead",
+						"resources\\views\\dashboard\\components\\dashboard\\menu_head.blade.php"
+					],
+					[
+						"usua",
+						"app\\Models\\Usuarios\\Usuarios.php"
+					],
+					[
+						"banco",
+						"app\\Models\\Usuarios\\Banco.php"
+					],
+					[
+						"2017_06_06_231334_add_column_rfc_to_datos_bancarios",
+						"database\\migrations\\2017_06_06_231334_add_column_rfc_to_datos_bancarios.php"
+					],
+					[
+						"perfil_description",
+						"resources\\views\\dashboard\\components\\perfil\\perfil_description.blade.php"
+					],
+					[
+						"per",
+						"app\\Models\\Usuarios\\Perfil.php"
+					],
+					[
+						"usuar",
+						"app\\Models\\Usuarios\\Usuarios.php"
+					],
+					[
+						"modalino",
+						"resources\\views\\dashboard\\components\\perfil\\modal_informacion_personal_update.blade.php"
+					],
+					[
+						"usuario",
+						"app\\Http\\Controllers\\Usuario\\UsuarioController.php"
+					],
+					[
+						"store",
+						"app\\Http\\Requests\\StorePerfil.php"
+					],
+					[
+						"usuarioc",
+						"app\\Http\\Controllers\\Usuario\\UsuarioController.php"
+					],
+					[
+						"showp",
+						"resources\\views\\dashboard\\perfil_content\\show_perfil.blade.php"
+					],
+					[
+						"showperi",
+						"resources\\views\\dashboard\\perfil_content\\show_perfil.blade.php"
+					],
+					[
+						"auth",
+						"app\\Http\\Controllers\\Auth\\AuthController.php"
+					],
+					[
+						"welco",
+						"resources\\views\\welcome.blade.php"
+					],
+					[
+						"authcon",
+						"app\\Http\\Controllers\\Auth\\AuthController.php"
+					],
+					[
+						"modal_informacion_personal_update",
+						"resources\\views\\dashboard\\components\\perfil\\modal_informacion_personal_update.blade.php"
+					],
+					[
+						"card_per",
+						"resources\\views\\dashboard\\components\\perfil\\card_perfil.blade.php"
+					],
+					[
+						"user",
+						"app\\User.php"
+					],
+					[
+						"login",
+						"vendor\\swiftmailer\\swiftmailer\\lib\\classes\\Swift\\Transport\\Esmtp\\Auth\\LoginAuthenticator.php"
+					],
+					[
+						".evn",
+						".env"
+					],
+					[
+						"app",
+						"bootstrap\\app.php"
+					],
+					[
+						"menu.bla",
+						"resources\\views\\dashboard\\components\\dashboard\\menu.blade.php"
+					],
+					[
+						"item_in",
+						"resources\\views\\dashboard\\components\\cursos\\item_info_curso.blade.php"
+					],
+					[
+						"cursoscon",
+						"app\\Http\\Controllers\\Cursos\\CursosController.php"
+					],
+					[
+						"pregunta",
+						"app\\Models\\Cursos\\Pregunta.php"
+					],
+					[
+						"pregun",
+						"app\\Models\\Cursos\\Pregunta.php"
+					],
+					[
+						"respuesta",
+						"app\\Models\\Cursos\\Respuesta.php"
+					],
+					[
+						"preg",
+						"app\\Models\\Cursos\\Pregunta.php"
+					],
+					[
+						"cursorcon",
+						"app\\Http\\Controllers\\Cursos\\CursosController.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"xdebug":
+				{
+					"hide_conflict": false
+				}
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 273.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 16,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

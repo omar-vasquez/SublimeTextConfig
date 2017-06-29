@@ -1,0 +1,20 @@
+{
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"fade_fold_buttons": true,
+	"font_face": "BPmono",
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Lanzhou.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}

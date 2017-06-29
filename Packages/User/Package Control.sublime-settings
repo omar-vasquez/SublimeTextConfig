@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"ayu",
+		"Blade Snippets",
+		"BracketHighlighter",
+		"Color Scheme - Gray Matter",
+		"color_scheme_unit",
+		"DocBlockr",
+		"Eloquent Snippets",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"jQuery",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Laravel Color Scheme",
+		"Laravel Helper Completions",
+		"Package Control",
+		"PHP Companion",
+		"PHP Constructors",
+		"PHP Source",
+		"php-snippets",
+		"Phpcs",
+		"PHPIntel",
+		"PhpNamespace",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
+		"SidebarHoverToggle",
+		"SideBarTools",
+		"SyncedSideBar",
+		"SyncedSidebarBg",
+		"Theme - Lanzhou",
+		"Theme - Seti Monokai"
+	]
+}

@@ -1,0 +1,1 @@
+{"description": "A colour scheme for Sublime Text that takes design cues from popular minimalist Markdown text editors. Unlike many other colour schemes it properly highlights the basic Markdown syntax.", "sublime_text": "*", "version": "1.2.1", "platforms": ["*"], "url": "https://github.com/philipbelesky/gray-matter", "dependencies": []}
